@@ -1,8 +1,8 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy
-  description: Welcome to your new dashboard!
+  title: Baxwar Front End
+  description: Welcome Back System Administrator
   navLinks:
   - title: GitHub
     path: https://github.com/Lissy93/dashy
